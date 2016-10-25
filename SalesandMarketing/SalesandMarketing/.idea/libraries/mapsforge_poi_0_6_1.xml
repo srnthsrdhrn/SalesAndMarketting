@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="mapsforge-poi-0.6.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mapsforge/mapsforge-poi/0.6.1/e3c3a4fa9b9092669061e24c7deb0d93b5583d54/mapsforge-poi-0.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mapsforge/mapsforge-poi/0.6.1/ed60044d0af0fe51103c62c440fa42b9351f4bfc/mapsforge-poi-0.6.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

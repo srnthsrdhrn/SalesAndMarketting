@@ -1,0 +1,438 @@
+[
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_maps.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_popup_salesitems.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\activity_popup_salesitems.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_schememaster.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\activity_schememaster.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_overdue_page.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\activity_overdue_page.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\unit_location.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\unit_location.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_transaction_drawer.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\activity_transaction_drawer.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rowlayout.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\rowlayout.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\regular_sales_drawer.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\regular_sales_drawer.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_customer_drawer_page.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\activity_customer_drawer_page.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\payment_type_drawer.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\payment_type_drawer.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_master.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\item_master.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_customer_page.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\activity_customer_page.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scheme.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\activity_scheme.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\header.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\employee_master.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\employee_master.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting__drawer.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\activity_setting__drawer.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_schemedelete_drawer.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\activity_schemedelete_drawer.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sales_calculations.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\activity_sales_calculations.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_payment_type.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\activity_payment_type.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_payment_approval.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\activity_payment_approval.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_regular_sales.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\activity_regular_sales.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\footer_buttons.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\footer_buttons.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scheme_drawer.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\activity_scheme_drawer.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_report_drawer.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\activity_report_drawer.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\forgot_password_dialog.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\forgot_password_dialog.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_unit_locations.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\activity_unit_locations.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_map_locations.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\activity_map_locations.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_item.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\activity_item.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_homepage.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\nav_header_homepage.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings_drawer.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\activity_settings_drawer.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scheme_master.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\scheme_master.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scheme_selection.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\activity_scheme_selection.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scheme_selection_row.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\scheme_selection_row.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test2.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\test2.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_homepage.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\content_homepage.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scheme_header.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\scheme_header.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sales_calculation.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\activity_sales_calculation.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_map.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\footer_sms_button.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\footer_sms_button.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\footer_button.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\footer_button.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_homepage.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\activity_homepage.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test_regular.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\test_regular.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pendingcollection_rpt.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\activity_pendingcollection_rpt.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_homepage.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\app_bar_homepage.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_transaction.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\activity_transaction.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_report.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\activity_report.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_employee_details.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\activity_employee_details.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\salescalculation_drawer.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\salescalculation_drawer.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\payment_approval_drawer.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\payment_approval_drawer.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_view_row.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\list_view_row.xml"
+    },
+    {
+        "merged": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scheme_selection_drawer.xml",
+        "source": "E:\\Test of SalesMarketing\\Test_Modifications\\2nd_modify\\retest\\SalesandMarketing\\app\\src\\main\\res\\layout\\scheme_selection_drawer.xml"
+    }
+]

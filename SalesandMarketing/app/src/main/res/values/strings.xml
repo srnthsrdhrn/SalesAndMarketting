@@ -1,0 +1,54 @@
+<resources>
+    <!-- App Details!-->
+    <string name="app_name">SSM</string>
+
+    <!--Homepage!-->
+    <string name="title_activity_homepage">Homepage</string>
+
+    <!--Navigation Drawer !-->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_menu_master">Master</string>
+    <string name="navigation_drawer_menu_transaction">Transaction</string>
+    <string name="navigation_drawer_menu_report">Report</string>
+
+    <!--Settings List !-->
+    <string name="action_settings">Settings</string>
+
+    <!--Login page !-->
+    <string name="title_activity_login">Sign in</string>
+    <string name="login_button_sign_in">Sign In</string>
+    <string name="login_edit_text_password">Password</string>
+    <string name="login_edit_text_username">Username</string>
+    <string name="login_toolbar_text_field">Login</string>
+    <string name="login_button_forgot_password">Forgot Password</string>
+    <string name="login_forgot_pass_button_confirm">Confirm</string>
+    <string name="login_forgot_pass_edit_text_email">Enter your Email id</string>
+
+    <!--Scheme Page !-->
+    <string name="scheme_item_offer_separator">Offers for the above set of Products</string>
+
+    <!--Footer Buttons !-->
+    <string name="footer_button_delete">Delete</string>
+    <string name="footer_button_update">Update</string>
+    <string name="footer_button_save">Save</string>
+    <string name="footer_button_cancel">Cancel</string>
+
+    <!-- Item Stocks !-->
+    <string name="item_stock_edit_text_item_name">Item Name</string>
+    <string name="item_stock_button_store">Store</string>
+    <string name="item_stock_edit_text_stock">Stock</string>
+    <string name="item_stock_button_save">Save</string>
+    <string name="item_stock_Toolbar_heading">Item Stock</string>
+    <string name="settings_heading_text_view">Settings</string>
+    <string name="navigation_drawer_menu_homepage">Homepage</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="transaction_button_start">Start</string>
+    <string name="transaction_heading_text_view">Transaction</string>
+    <string name="report_heading_tex_view">Report</string>
+    <string name="item_stock_edit_text_stocks">Item_Stock</string>
+    <string name="scheme_selection_title_text_view">Scheme Selection</string>
+    <string name="customer_page_heading">Customer Page</string>
+    <string name="overdue_page_heading">Overdue</string>
+    <string name="local_service_started" />
+</resources>

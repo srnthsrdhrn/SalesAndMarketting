@@ -1,0 +1,35 @@
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:orientation="vertical"
+    android:weightSum="100"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="100"
+        android:layout_margin="5dp">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="50"
+            android:id="@+id/save"
+            android:background="@drawable/border"
+            android:padding="3dp"
+            android:textColor="@android:color/white"
+            android:text="@string/footer_button_save"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="4dp"
+            android:layout_marginStart="4dp"
+            android:background="@drawable/border"
+            android:textColor="@android:color/white"
+            android:padding="3dp"
+            android:layout_gravity="end"
+            android:layout_weight="50"
+            android:id="@+id/cancel"
+            android:text="@string/footer_button_cancel" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:background="@drawable/customer_page_background"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.sakthisugars.salesandmarketing.CustomerPage">
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay"
+        android:id="@+id/view">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/AppTheme.PopupOverlay" >
+            <!-- <TableLayout
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+           <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                 <TextView
+                        android:id="@+id/txtname"
+                        android:layout_column="0"
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:padding="10sp"
+                        android:layout_weight="4"
+                        android:gravity="center"
+                        android:layout_span="1"
+                        android:background="@drawable/background">
+                    </TextView>
+                    <TextView
+                        android:id="@+id/txtprice"
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:layout_column="2"
+                        android:padding="10sp"
+                        android:layout_weight="2"
+                        android:gravity="center"
+                        android:background="@drawable/background">
+                    </TextView>
+                </TableRow>-->
+            <TableLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:stretchColumns="*">
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <TextView
+                        android:layout_width="20dp"
+                        android:layout_height="wrap_content"
+                        android:layout_column="0"
+                        android:padding="10sp"
+                        android:gravity="left"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:layout_span="4"
+                        android:text="Sales"
+                        android:textStyle="bold">
+                    </TextView>
+                    <TextView
+                        android:id="@+id/uname"
+                        android:layout_column="2"
+                        android:padding="10sp"
+                        android:gravity="center"
+                        android:drawableRight="@drawable/png_logout1">
+                        android:layout_span="1"
+                        android:textStyle="bold">
+                    </TextView>
+                </TableRow>
+            </TableLayout>
+      <!--<TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Salggggggges"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:gravity="end"/>-->
+        </android.support.v7.widget.Toolbar>
+
+    </android.support.design.widget.AppBarLayout>
+        <!--<Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/overdue"
+            android:layout_gravity="center"
+            android:text="Overdue Pending"
+            android:background="@color/primary"
+            android:textColor="@android:color/white"
+            android:padding="5dp"
+            android:layout_marginBottom="40dp"
+            android:layout_above="@+id/new_purchase"
+            android:layout_centerHorizontal="true" />-->
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sales"
+        android:id="@+id/new_purchase"
+        android:padding="10dp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+    <include layout="@layout/footer"
+        android:id="@+id/include">
+    </include>
+
+
+</RelativeLayout>

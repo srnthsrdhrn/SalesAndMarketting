@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/hbback1">
+    <group
+        android:id="@+id/grp1"
+        android:checkableBehavior="single">
+        <item android:id="@+id/homepage"
+            android:title="@string/navigation_drawer_menu_homepage"
+            android:icon="@drawable/w_home"/>
+    </group>
+    <group
+        android:id="@+id/grp2"
+        android:checkableBehavior="single">
+        <item android:title="@string/navigation_drawer_menu_master"
+            android:id="@+id/master"
+            android:icon="@drawable/master">
+        </item>
+</group>
+    <group android:id="@+id/grp3"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/transaction"
+            android:icon="@drawable/transaction"
+            android:title="@string/navigation_drawer_menu_transaction" />
+    </group>
+    <group
+        android:id="@+id/grp4"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/report"
+            android:icon="@drawable/reporting"
+            android:title="@string/navigation_drawer_menu_report" />
+    </group>
+
+        <item
+            android:id="@+id/settings"
+            android:title="@string/action_settings"
+            android:icon="@drawable/ic_settings_black_24dp"/>
+        <item
+            android:id="@+id/customer"
+            android:title="Customer"
+            android:icon="@drawable/customer"/>
+    <item
+        android:id="@+id/marker"
+        android:title="Location"
+        android:icon="@drawable/marker"/>
+
+    <item
+            android:id="@+id/logout"
+            android:title="Logout"
+            android:icon="@drawable/logout"/>
+
+</menu>

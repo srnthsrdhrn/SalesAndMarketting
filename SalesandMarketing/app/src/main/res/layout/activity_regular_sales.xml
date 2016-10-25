@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bk1"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:theme="@style/AppTheme"
+    android:textColor="#fff"
+    tools:context=".Regular_Sales">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="120"
+        android:layout_gravity="right|bottom">
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="60dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:layout_marginTop="10dp">
+            <Button
+                android:layout_width="173dp"
+                android:layout_marginBottom="100dp"
+                android:layout_height="43dp"
+                android:background="#28a4a4"
+                android:gravity="center"
+                android:text="Add Items"
+                android:id="@+id/sales" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_marginBottom="80dp"
+                android:textColor="#000"
+                android:text="ORDERED ITEMS"/>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="50"
+                    android:orientation="vertical">
+            <ListView
+                android:id="@+id/list_item"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:choiceMode="none"
+                android:layout_margin="5dp">
+                </ListView></LinearLayout>
+            <Button android:id="@+id/pay"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:background="#28a4a4"
+                android:text="PAY"
+                android:layout_marginTop="50dp"/>
+                </LinearLayout>
+            </LinearLayout>
+            </ScrollView>
+        </LinearLayout>
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/AppTheme.PopupOverlay" >
+       <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Regular Sale"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:gravity="center"/>
+
+        </android.support.v7.widget.Toolbar>
+    </android.support.design.widget.AppBarLayout>
+</FrameLayout>

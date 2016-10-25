@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bk1"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.sakthisugars.salesandmarketing.Report">
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/AppTheme.PopupOverlay" >
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Location"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:gravity="center"/>
+        </android.support.v7.widget.Toolbar>
+
+    </android.support.design.widget.AppBarLayout>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:orientation="vertical"
+            android:layout_gravity="center_horizontal"
+            android:weightSum="1">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:textColor="#000"
+                android:padding="10dp"
+                android:layout_marginTop="30dip"
+                android:text="" />
+
+            <!-- <ImageView
+                 android:layout_width="fill_parent"
+                 android:layout_height="wrap_content"
+                 android:src="@drawable/ic_launcher" />-->
+
+
+            <Button
+                android:id="@+id/sakthinagar"
+                android:layout_width="fill_parent"
+                android:padding="10dp"
+                android:layout_marginBottom="20dp"
+                android:layout_height="wrap_content"
+                android:text="Sakthi Nagar"
+                android:layout_weight="0.14" />
+            <Button
+                android:id="@+id/modakurichi"
+                android:layout_width="fill_parent"
+                android:padding="10dp"
+                android:layout_marginBottom="20dp"
+                android:layout_height="wrap_content"
+                android:text="Modakurich"
+                android:layout_weight="0.14" />
+
+            <Button
+                android:id="@+id/dhenkanal"
+                android:layout_width="fill_parent"
+                android:padding="10dp"
+                android:layout_marginBottom="20dp"
+                android:layout_height="wrap_content"
+                android:text="Dhenkanal"
+                android:layout_weight="0.14" />
+            <Button
+                android:id="@+id/sivagangai"
+                android:layout_width="fill_parent"
+                android:padding="10dp"
+                android:layout_marginBottom="20dp"
+                android:layout_height="wrap_content"
+                android:text="Sivagangai"
+                android:layout_weight="0.14" />
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

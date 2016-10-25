@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="spatialite-android-0.6.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mapsforge/spatialite-android/0.6.1/f72ff0f2e087a7d752c198ad8f51f434855a2ffb/spatialite-android-0.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mapsforge/spatialite-android/0.6.1/a5495cd1a40b8d561e57ff3e6b2cc2ead586c9a1/spatialite-android-0.6.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

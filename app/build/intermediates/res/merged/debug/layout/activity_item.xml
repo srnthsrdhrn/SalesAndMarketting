@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/b9"
+    android:fitsSystemWindows="true"
+    tools:context="com.sakthisugars.salesandmarketing.Homepage">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="70dp">
+     <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:orientation="vertical"
+         android:padding="10dp"
+         android:weightSum="1">
+         <TableLayout
+             android:layout_width="fill_parent"
+             android:layout_height="fill_parent">
+             <TableRow
+                 android:layout_width="fill_parent"
+                 android:layout_height="fill_parent">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:text="Name"/>
+         <Spinner
+             android:id="@+id/my_spinner"
+             android:gravity="bottom"
+             android:layout_height="wrap_content"
+             android:layout_width="wrap_content"/>
+      </TableRow>
+        <!--<TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ItemCode"/>
+        <TextView
+            android:id="@+id/itemcode"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ItemID"/>
+
+        <TextView
+            android:id="@+id/itemid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ItemStockCount"/>
+
+        <TextView
+            android:id="@+id/stockcount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="UOM"/>
+        <TextView
+            android:id="@+id/uom"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="UOM_ID"/>
+        <TextView
+            android:id="@+id/uomid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />-->
+         <TableRow>
+         <TextView
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:textColor="#000"
+             android:layout_margin="10dp"
+             android:text="Qty"/>
+         <EditText
+             android:layout_marginTop="10dp"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:hint="Enter the Qty here"
+             android:layout_margin="10dp"
+             android:id="@+id/qty"
+             android:inputType="numberDecimal"/>
+         </TableRow>
+         <TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:layout_margin="10dp"
+            android:text="Rate"/>
+        <EditText
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter the rate here"
+            android:layout_margin="10dp"
+            android:id="@+id/rate"
+            android:inputType="numberDecimal"/>
+         </TableRow>
+             <TableRow>
+             <TextView
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:textColor="#000"
+                 android:layout_margin="10dp"
+                 android:text="UOM"/>
+             <TextView
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:layout_margin="10dp"
+                 android:id="@+id/uom"/>
+             </TableRow>
+         </TableLayout>
+         <LinearLayout
+             android:orientation="horizontal"
+             android:layout_width="wrap_content"
+             android:layout_height="fill_parent"
+             android:layout_gravity="center_horizontal"
+             android:layout_margin="20dp">
+             <!--  <Button
+                   android:layout_width="100dp"
+                  android:layout_height="wrap_content"
+                  android:background="@color/primary"
+                  android:textColor="@android:color/white"
+                  android:padding="5dp"
+                   android:width="100dp"
+                   android:gravity="center"
+                  android:layout_marginTop="10dp"
+                  android:id="@+id/save"
+                  android:text="@string/item_stock_button_save"/>
+                          <Button
+                          android:layout_width="wrap_content"
+                          android:layout_height="wrap_content"
+                          android:background="@color/primary"
+                          android:textColor="@android:color/white"
+                          android:padding="5dp"
+                          android:gravity="center"
+                          android:layout_marginTop="10dp"
+                          android:id="@+id/cancel"
+                          android:text="Cancel"/>-->
+             <!--  <Button
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Save"
+                   android:padding="5dp"
+                   android:background="@drawable/border"
+                   android:id="@+id/save" />-->
+             <ImageView android:src="@drawable/png_save"
+                 android:layout_width="121dp"
+                 android:layout_height="109dp"
+                 android:id="@+id/save" />
+             <ImageView android:src="@drawable/png_cancel1"
+                 android:layout_width="100dp"
+                 android:layout_height="90dp"
+                 android:id="@+id/cancel"
+
+                 android:layout_gravity="center_horizontal" />
+         </LinearLayout>
+
+     </LinearLayout>
+</ScrollView>
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/AppTheme.PopupOverlay" >
+            <!--<TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/item_stock_Toolbar_heading"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:gravity="center"/>-->
+            <TableLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:stretchColumns="*">
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <TextView
+                        android:layout_width="20dp"
+                        android:layout_height="wrap_content"
+                        android:layout_column="0"
+                        android:padding="10sp"
+                        android:gravity="left"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:layout_span="5"
+                        android:text="Item Stock"
+                        android:textStyle="bold">
+                    </TextView>
+                    <TextView
+                        android:id="@+id/uname"
+                        android:layout_column="2"
+                        android:padding="10sp"
+                        android:gravity="center"
+                        android:drawableRight="@drawable/png_logout1">
+                        android:layout_span="1"
+                        android:textStyle="bold">
+                    </TextView>
+                </TableRow>
+            </TableLayout>
+            </android.support.v7.widget.Toolbar>
+
+    </android.support.design.widget.AppBarLayout>
+    </FrameLayout>

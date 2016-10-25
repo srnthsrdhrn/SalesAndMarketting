@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/b9"
+    android:fitsSystemWindows="true"
+    android:id="@+id/frame_layout"
+    tools:context=".SchemeDesgin">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="100"
+        android:layout_gravity="right|bottom">
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="40">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/linear_layout"
+                android:orientation="vertical"
+                android:weightSum="1">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:weightSum="100"
+                    android:layout_marginTop="60dp">
+                    <TableLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginTop="10dp">
+                        <TableRow>
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="10dp"
+                                android:textColor="#AF5A87"
+                                android:text="SchemeName"/>
+                            <EditText
+                                android:layout_marginTop="10dp"
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:hint="Enter the Name here"
+                                android:id="@+id/scheme_name"/>
+                        </TableRow>
+                        <TableRow>
+                            <TextView
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="10dp"
+                                android:textColor="#AF5A87"
+                                android:text="Description"/>
+                            <EditText
+                                android:layout_marginTop="10dp"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:hint="Enter the Description here"
+                                android:id="@+id/description"
+                                android:inputType="numberDecimal"/>
+                        </TableRow>
+                        <TableRow>
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textColor="#AF5A87"
+                                android:layout_marginTop="20dp"
+                                android:text="Type"/>
+                            <Spinner
+                                android:id="@+id/Scheme_spinner"
+                                android:gravity="bottom"
+                                android:layout_marginTop="20dp"
+                                android:layout_height="wrap_content"
+                                android:layout_width="wrap_content"/>
+                        </TableRow>
+                        <TableRow>
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textColor="#AF5A87"
+                                android:layout_marginTop="40dp"
+                                android:text="ParentItem"/>
+                            <Spinner
+                                android:id="@+id/spinner_main"
+                                android:gravity="bottom"
+                                android:layout_marginTop="20dp"
+                                android:layout_height="wrap_content"
+                                android:layout_width="wrap_content"/>
+                        </TableRow>
+                        <TableRow>
+                            <TextView
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="10dp"
+                                android:textColor="#AF5A87"
+                                android:text="QTY"/>
+                            <EditText
+                                android:layout_marginTop="10dp"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:hint="Enter the Description here"
+                                android:id="@+id/quantity_main"
+                                android:inputType="numberDecimal"/>
+                        </TableRow>
+                        <Button
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:text="Add Parent Item"
+                            android:id="@+id/add_item_main" />
+                        <TableRow>
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textColor="#AF5A87"
+                                android:layout_marginTop="40dp"
+                                android:text="OfferItem"/>
+
+                            <Spinner
+                                android:id="@+id/spinner_offer"
+                                android:gravity="bottom"
+                                android:layout_marginTop="20dp"
+                                android:layout_height="wrap_content"
+                                android:layout_width="wrap_content"/>
+                        </TableRow>
+                        <TableRow>
+                            <TextView
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="10dp"
+                                android:textColor="#AF5A87"
+                                android:text="QTY"/>
+                            <EditText
+                                android:layout_marginTop="10dp"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:hint="Enter the Description here"
+                                android:id="@+id/quantity_offer"
+                                android:inputType="numberDecimal"/>
+                        </TableRow>
+                        <Button
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:text="Add Offer Item"
+                            android:id="@+id/add_item_offer" />
+                        <TableRow>
+                            <TextView
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="10dp"
+                                android:textColor="#AF5A87"
+                                android:text="ItemRate"/>
+                            <EditText
+                                android:layout_marginTop="10dp"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:hint="Enter the Description here"
+                                android:id="@+id/item_rate"
+                                android:inputType="numberDecimal"/>
+                        </TableRow>
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="@string/scheme_item_offer_separator"
+                            android:gravity="center"
+                            android:layout_margin="10dp"/>
+
+                        <EditText
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="10dp"
+                            android:gravity="center"
+                            android:inputType="number"
+                            android:id="@+id/value"
+                            android:layout_margin="10dp"
+                            android:hint="Value"/>
+                    </TableLayout>
+                    <RadioGroup
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+                        <RadioButton
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Percentage %"
+                            android:id="@+id/percent" />
+
+                        <RadioButton
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Amount"
+                            android:id="@+id/amount" />
+                    </RadioGroup>
+                    <TextView
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:textColor="#AF5A87"
+                        android:text="FreeItems"/>
+                    <EditText
+                        android:layout_marginTop="10dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="Enter the Description here"
+                        android:id="@+id/free_items"
+                        android:inputType="numberDecimal"/>
+                </LinearLayout>
+            </LinearLayout>
+        </ScrollView>
+        <!--</FrameLayout>
+       <GridLayout
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content">
+
+             <TextView
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:text="Items"
+                 android:layout_marginLeft="10dp"
+                 android:layout_marginStart="10dp"
+                 android:layout_margin="5dp"
+                 android:layout_marginTop="20dp"
+                 android:textStyle="bold"
+                 android:layout_gravity="center"
+                 android:layout_row="1"
+                 android:layout_column="0" />
+
+             <Spinner
+                 android:layout_width="match_parent"
+                 android:layout_height="wrap_content"
+                 android:id="@+id/spinner_main"
+                 android:layout_marginTop="10dp"
+                 android:layout_marginBottom="2dp"
+                 android:layout_row="2"
+                 android:layout_column="0" />
+         </GridLayout>
+         <EditText
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:hint="Quantity"
+             android:layout_margin="10dp"
+             android:layout_gravity="center"
+             android:id="@+id/quantity_main1"
+             android:gravity="center"
+             android:inputType="number"/>
+         <Button
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_gravity="center"
+             android:background="@color/primary"
+             android:textColor="@android:color/white"
+             android:padding="3dp"
+             android:id="@+id/add_item_main1"
+             android:text="Add Item" />
+
+         <TextView
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="@string/scheme_item_offer_separator"
+             android:gravity="center"
+             android:layout_margin="10dp"/>
+
+             <EditText
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:layout_marginTop="10dp"
+             android:gravity="center"
+             android:inputType="number"
+             android:id="@+id/value1"
+             android:layout_margin="10dp"
+             android:hint="Value"/>
+         <LinearLayout
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:orientation="vertical"
+             android:layout_marginBottom="10dp"
+             android:baselineAligned="false">
+             <RadioGroup
+                 android:layout_width="match_parent"
+                 android:layout_height="wrap_content">
+             <RadioButton
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:text="Percentage %"
+                 android:id="@+id/percent1" />
+
+             <RadioButton
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:text="Amount"
+                 android:id="@+id/amount1" />
+             </RadioGroup>
+         </LinearLayout>
+         <GridLayout
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content" >
+
+             <TextView
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:text="Items"
+                 android:layout_gravity="center"
+                 android:layout_marginLeft="10dp"
+                 android:layout_marginStart="10dp"
+                 android:layout_marginRight="5dp"
+                 android:layout_marginTop="20dp"
+                 android:textStyle="bold"
+                 android:layout_row="1"
+                 android:layout_column="0" />
+
+             <Spinner
+                 android:layout_width="match_parent"
+                 android:layout_height="wrap_content"
+                 android:id="@+id/spinner_offer"
+                 android:layout_marginTop="10dp"
+                 android:layout_row="2"
+                 android:layout_column="0" />
+         </GridLayout>
+         <EditText
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:hint="Quantity"
+             android:layout_margin="10dp"
+             android:layout_gravity="center"
+             android:id="@+id/quantity_offer1"
+             android:gravity="center"
+             android:inputType="number"/>
+         <Button
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_gravity="center"
+             android:background="@color/primary"
+             android:textColor="@android:color/white"
+             android:padding="3dp"
+             android:id="@+id/add_item_offer1"
+             android:text="Add Item" />
+         <include layout="@layout/footer_buttons" />
+     </LinearLayout>
+     </ScrollView>-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="60"
+            android:weightSum="100"
+            android:orientation="vertical"
+            android:layout_marginTop="60dp">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Main Items"/>
+            <ListView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/listView"
+                android:choiceMode="none"
+                android:layout_margin="5dp"
+                android:layout_weight="50" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Offer Items"/>
+            <ListView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="50"
+                android:layout_margin="5dp"
+                android:id="@+id/listView_offer"
+                android:choiceMode="none" />
+        </LinearLayout>
+    </LinearLayout>
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/AppTheme.PopupOverlay" >
+            <!--<TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schemes"
+                android:textColor="@android:color/white"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:gravity="center"/>-->
+            <TableLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:stretchColumns="*">
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <TextView
+                        android:layout_width="20dp"
+                        android:layout_height="wrap_content"
+                        android:layout_column="0"
+                        android:padding="10sp"
+                        android:gravity="left"
+                        android:textAppearance="?android:attr/textAppearanceLarge"
+                        android:layout_span="4"
+                        android:text="Scheme"
+                        android:textStyle="bold">
+                    </TextView>
+                    <TextView
+                        android:id="@+id/uname"
+                        android:layout_column="2"
+                        android:padding="10sp"
+                        android:gravity="center"
+                        android:layout_span="1"
+                        android:textStyle="bold">
+                    </TextView>
+                </TableRow>
+            </TableLayout>
+        </android.support.v7.widget.Toolbar>
+
+    </android.support.design.widget.AppBarLayout>
+
+</FrameLayout>

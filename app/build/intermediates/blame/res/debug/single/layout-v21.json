@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\OfficeWorks\\SalesandMarketing phase 3\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\activity_transaction.xml",
+        "source": "E:\\OfficeWorks\\SalesandMarketing phase 3\\SalesandMarketing\\app\\src\\main\\res\\layout-v21\\activity_transaction.xml"
+    },
+    {
+        "merged": "E:\\OfficeWorks\\SalesandMarketing phase 3\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\forgot_password_dialog.xml",
+        "source": "E:\\OfficeWorks\\SalesandMarketing phase 3\\SalesandMarketing\\app\\src\\main\\res\\layout-v21\\forgot_password_dialog.xml"
+    },
+    {
+        "merged": "E:\\OfficeWorks\\SalesandMarketing phase 3\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\activity_scheme.xml",
+        "source": "E:\\OfficeWorks\\SalesandMarketing phase 3\\SalesandMarketing\\app\\src\\main\\res\\layout-v21\\activity_scheme.xml"
+    },
+    {
+        "merged": "E:\\OfficeWorks\\SalesandMarketing phase 3\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "E:\\OfficeWorks\\SalesandMarketing phase 3\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "E:\\OfficeWorks\\SalesandMarketing phase 3\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\footer_buttons.xml",
+        "source": "E:\\OfficeWorks\\SalesandMarketing phase 3\\SalesandMarketing\\app\\src\\main\\res\\layout-v21\\footer_buttons.xml"
+    },
+    {
+        "merged": "E:\\OfficeWorks\\SalesandMarketing phase 3\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\activity_customer_page.xml",
+        "source": "E:\\OfficeWorks\\SalesandMarketing phase 3\\SalesandMarketing\\app\\src\\main\\res\\layout-v21\\activity_customer_page.xml"
+    }
+]

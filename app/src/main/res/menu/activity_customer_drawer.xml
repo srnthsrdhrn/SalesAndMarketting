@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/hbback1">
+  <group
+        android:id="@+id/grp1"
+        android:checkableBehavior="single">
+        <item android:id="@+id/homepage"
+            android:title="Home"
+            android:icon="@drawable/ic_home_black_24dp"/>
+    </group>
+    <group
+        android:id="@+id/grp2"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/Admin"
+            android:title="Admin"
+            android:icon="@drawable/admin"/>
+    </group>
+    <group
+        android:id="@+id/grp3"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/customer"
+            android:title="Sales"
+            android:icon="@drawable/customer1"/>
+    </group>
+    <group
+        android:id="@+id/grp4"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/marker"
+            android:title="Location Tracking"
+            android:icon="@drawable/location1"/>
+    </group>
+    <group
+        android:id="@+id/grp5"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/logout"
+            android:title="Logout"
+            android:icon="@drawable/logout1"/>
+    </group>
+
+</menu>

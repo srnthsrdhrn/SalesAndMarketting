@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\OfficeWorks\\SalesandMarketing phase 3\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\places_ic_clear.png",
+        "source": "E:\\OfficeWorks\\SalesandMarketing phase 3\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxxhdpi\\places_ic_clear.png"
+    },
+    {
+        "merged": "E:\\OfficeWorks\\SalesandMarketing phase 3\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_explore_black_24dp.png",
+        "source": "E:\\OfficeWorks\\SalesandMarketing phase 3\\SalesandMarketing\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_explore_black_24dp.png"
+    },
+    {
+        "merged": "E:\\OfficeWorks\\SalesandMarketing phase 3\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_settings_black_24dp.png",
+        "source": "E:\\OfficeWorks\\SalesandMarketing phase 3\\SalesandMarketing\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_settings_black_24dp.png"
+    },
+    {
+        "merged": "E:\\OfficeWorks\\SalesandMarketing phase 3\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_home_black_24dp.png",
+        "source": "E:\\OfficeWorks\\SalesandMarketing phase 3\\SalesandMarketing\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "E:\\OfficeWorks\\SalesandMarketing phase 3\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_my_location_black_24dp.png",
+        "source": "E:\\OfficeWorks\\SalesandMarketing phase 3\\SalesandMarketing\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_my_location_black_24dp.png"
+    },
+    {
+        "merged": "E:\\OfficeWorks\\SalesandMarketing phase 3\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_master.png",
+        "source": "E:\\OfficeWorks\\SalesandMarketing phase 3\\SalesandMarketing\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_master.png"
+    },
+    {
+        "merged": "E:\\OfficeWorks\\SalesandMarketing phase 3\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_transaction.png",
+        "source": "E:\\OfficeWorks\\SalesandMarketing phase 3\\SalesandMarketing\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_transaction.png"
+    },
+    {
+        "merged": "E:\\OfficeWorks\\SalesandMarketing phase 3\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\powered_by_google_dark.png",
+        "source": "E:\\OfficeWorks\\SalesandMarketing phase 3\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxxhdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "E:\\OfficeWorks\\SalesandMarketing phase 3\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\powered_by_google_light.png",
+        "source": "E:\\OfficeWorks\\SalesandMarketing phase 3\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxxhdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "E:\\OfficeWorks\\SalesandMarketing phase 3\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_report.png",
+        "source": "E:\\OfficeWorks\\SalesandMarketing phase 3\\SalesandMarketing\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_report.png"
+    },
+    {
+        "merged": "E:\\OfficeWorks\\SalesandMarketing phase 3\\SalesandMarketing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\places_ic_search.png",
+        "source": "E:\\OfficeWorks\\SalesandMarketing phase 3\\SalesandMarketing\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxxhdpi\\places_ic_search.png"
+    }
+]
